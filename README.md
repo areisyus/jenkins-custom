@@ -1,5 +1,5 @@
 # jenkins-custom
-Jenkins based on lts with docker, node 8.x and maven installed
+Jenkins based on jenkins/jenkins:lts with docker, node 8.x and maven already installed
 
 ## run command
 ```bash
